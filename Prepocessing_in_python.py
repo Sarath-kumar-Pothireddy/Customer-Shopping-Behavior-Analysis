@@ -1,4 +1,4 @@
-#-- Own project --# 
+#-- Customer shopping behaviour EDA analysis --# 
 
 import pandas as pd 
 import numpy as np
@@ -13,14 +13,6 @@ df.info()
 
 df.describe() 
 df.describe(include = 'all') #it uses describe about all columns (numerical & categorical) 
-
-
-#pd.set_option('display.max_columns', None)
-#pd.set_option('display.width', None)
-#df.describe(include='all')
-
-#summary = df.describe(include='all').T
-#summary
 
 
 df.isnull().sum() #finding null values 
@@ -129,3 +121,4 @@ sql = 'select * from data_set'
 df = pd.read_sql_query(sql, con = engine)
 
 print(df)
+
