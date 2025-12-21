@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+# Customer-Shipping-Behavior-Analysis
 
 ## Overview 📌
 
