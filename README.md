@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 
 ## Dataset 📁
 
-- Source : Public Dataset 
+- Source : Dataset used in this project was provided by **360DigiTMG** as part of the Data Analytics training program. 
 - Format : CSV 
 - Description :
   The dataset contains structured data used to analyze trends, patterns, and key performance indicators relevant to the business problem.
@@ -17,7 +17,6 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 - Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
 - SQL – Data querying and analysis
 - MySQL
-- SQL Server
 - Power BI – Interactive dashboard creation
 - Gamma – Presentation (PPT) creation
 - Spyder – Python analysis environment
