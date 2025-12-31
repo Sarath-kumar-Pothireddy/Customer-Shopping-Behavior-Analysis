@@ -15,8 +15,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ## Tools & Technologies 🛠
 
 - Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
-- SQL – Data querying and analysis
-- MySQL
+- SQL – Data querying and analysis, MySQL
 - Power BI – Interactive dashboard creation
 - Gamma – Presentation (PPT) creation
 - Spyder – Python analysis environment
